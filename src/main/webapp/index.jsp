@@ -201,16 +201,12 @@
 			<!-- About Section Content-->
 			<div class="row">
 				<div class="col-lg-4 ms-auto">
-					<p class="lead">Lorem ipsum dolor sit amet, consectetur
-						adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias
-						magnam, recusandae quos quis inventore quisquam velit asperiores,
-						vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+					<p class="lead"> We are here to guide you to the best institute from every field
+					. From where you can start your carrier and pursue your dream.</p>
 				</div>
 				<div class="col-lg-4 me-auto">
-					<p class="lead">Lorem ipsum dolor sit amet, consectetur
-						adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias
-						magnam, recusandae quos quis inventore quisquam velit asperiores,
-						vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+					<p class="lead">It's our initiative to provide you Information about best institute.
+					By which you can emulsify your knowledge</p>
 				</div>
 			</div>
 			<!-- About Section Button
@@ -367,8 +363,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Log
-									Cabin</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">IPEG</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -379,13 +374,10 @@
 								</div>
 								<!-- Portfolio Modal - Image-->
 								<img class="img-fluid rounded mb-5"
-									src="assets/img/portfolio/cabin.png" alt="..." />
+									src="assets/img/portfolio/An_Ins.jpeg" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Android works in tandem with the internet, with several services requiring a web server ( Linux Apache MySQL PHP ) in the background. Our teachers are well versed in PHP too. 
+								Shown above is testimonials of a PHP corporate training batch.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -412,8 +404,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Tasty
-									Cake</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Azure</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -424,13 +415,10 @@
 								</div>
 								<!-- Portfolio Modal - Image-->
 								<img class="img-fluid rounded mb-5"
-									src="assets/img/portfolio/cake.png" alt="..." />
+									src="assets/img/portfolio/De_Ins.jpeg" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">DevOps is the combination of cultural philosophies, practices, 
+								and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -457,8 +445,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Circus
-									Tent</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Coursera</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -469,13 +456,10 @@
 								</div>
 								<!-- Portfolio Modal - Image-->
 								<img class="img-fluid rounded mb-5"
-									src="assets/img/portfolio/circus.png" alt="..." />
+									src="assets/img/portfolio/Dm_Ins.jpeg" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Digital Marketing Course with 100% Placement Assistance Consists of SEO Training, Google ADwords Training, Social Media Marketing, Email Marketing, Affiliate Marketing, 
+								Google Analytics & 360 Degree Implementation. We have flexible training modes, We offer Classroom Training at Ameerpet and Madhapur – Hyderabad, India. We have also started Implemented E-learning where Students can learn through Recorded videos of the trainer at any tim</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -502,7 +486,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Controller</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Snthesis</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -513,13 +497,10 @@
 								</div>
 								<!-- Portfolio Modal - Image-->
 								<img class="img-fluid rounded mb-5"
-									src="assets/img/portfolio/game.png" alt="..." />
+									src="assets/img/portfolio/Ds_Ins.jpeg" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">Kick-start your Data Science journey with India's #1 online Data Science program,
+								 aligned to competency standards developed by NASSCOM in collaboration with industry and approved by government. Start your journey today at INR 6,907 per month.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -546,8 +527,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Locked
-									Safe</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">Redhat</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -558,13 +538,10 @@
 								</div>
 								<!-- Portfolio Modal - Image-->
 								<img class="img-fluid rounded mb-5"
-									src="assets/img/portfolio/safe.png" alt="..." />
+									src="assets/img/portfolio/Lx_Ins.jpeg" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">The Linux Foundation is dedicated to building sustainable ecosystems around open source projects to accelerate technology development and commercial adoption.
+								 The foundation currently sponsors the work of Linux creator Linus Torvalds and lead maintainer Greg Kroah-Hartman, and aims to provide a neutral home where Linux kernel development can be protected and accelerated</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
@@ -591,7 +568,7 @@
 							<div class="col-lg-8">
 								<!-- Portfolio Modal - Title-->
 								<h2
-									class="portfolio-modal-title text-secondary text-uppercase mb-0">Submarine</h2>
+									class="portfolio-modal-title text-secondary text-uppercase mb-0">NexsonIT</h2>
 								<!-- Icon Divider-->
 								<div class="divider-custom">
 									<div class="divider-custom-line"></div>
@@ -602,13 +579,10 @@
 								</div>
 								<!-- Portfolio Modal - Image-->
 								<img class="img-fluid rounded mb-5"
-									src="assets/img/portfolio/submarine.png" alt="..." />
+									src="assets/img/portfolio/Py_Ins.jpeg" alt="..." />
 								<!-- Portfolio Modal - Text-->
-								<p class="mb-4">Lorem ipsum dolor sit amet, consectetur
-									adipisicing elit. Mollitia neque assumenda ipsam nihil,
-									molestias magnam, recusandae quos quis inventore quisquam velit
-									asperiores, vitae? Reprehenderit soluta, eos quod consequuntur
-									itaque. Nam.</p>
+								<p class="mb-4">NexsonIT is a coding school providing career transformation programs for those pivoting careers in technology. Its award-winning online programs attract career changers worldwide. Skill Distillery also offers masterclasses for those wanting to continue their career growth.
+								 Masterclasses are offered in a convenient online evening format over 4 to 5 weeks.</p>
 								<button class="btn btn-primary" href="#!"
 									data-bs-dismiss="modal">
 									<i class="fas fa-times fa-fw"></i> Close Window
